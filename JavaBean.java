@@ -4,6 +4,11 @@ public class JavaBean{
 	public main(String[] args){
 		int i ;
 		String str;
+
 		master 3;
+
+		dev1;
+		
+
 	}
 }
