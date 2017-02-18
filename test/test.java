@@ -1,4 +1,6 @@
 public test{
 	
-	
+	public test(){
+		
+	}
 }
