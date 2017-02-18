@@ -7,7 +7,7 @@ public class JavaBean{
 
 		master 3;
 
-		dev1;
+		dev1 modify
 		
 
 	}
