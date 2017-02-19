@@ -9,6 +9,6 @@ public class JavaBean{
 
 		dev1 modify 2
 		
-
+		bug1 commit;
 	}
 }
